@@ -325,3 +325,4 @@ C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Misc.Brevo\obj\Debug\net9.0\Nop.Plugi
 C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Misc.Brevo\obj\Debug\net9.0\refint\Nop.Plugin.Misc.Brevo.dll
 C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Misc.Brevo\obj\Debug\net9.0\Nop.Plugin.Misc.Brevo.pdb
 C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Misc.Brevo\obj\Debug\net9.0\ref\Nop.Plugin.Misc.Brevo.dll
+C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Misc.Brevo\obj\Debug\net9.0\Nop.Plugin.Misc.Brevo.sourcelink.json

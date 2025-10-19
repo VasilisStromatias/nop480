@@ -338,3 +338,4 @@ C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Tax.Avalara\obj\Debug\net9.0\Nop.Plug
 C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Tax.Avalara\obj\Debug\net9.0\refint\Nop.Plugin.Tax.Avalara.dll
 C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Tax.Avalara\obj\Debug\net9.0\Nop.Plugin.Tax.Avalara.pdb
 C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Tax.Avalara\obj\Debug\net9.0\ref\Nop.Plugin.Tax.Avalara.dll
+C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Tax.Avalara\obj\Debug\net9.0\Nop.Plugin.Tax.Avalara.sourcelink.json

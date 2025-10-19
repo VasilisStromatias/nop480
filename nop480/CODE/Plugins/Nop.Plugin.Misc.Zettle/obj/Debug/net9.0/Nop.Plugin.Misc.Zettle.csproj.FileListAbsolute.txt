@@ -324,3 +324,4 @@ C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Misc.Zettle\obj\Debug\net9.0\Nop.Plug
 C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Misc.Zettle\obj\Debug\net9.0\refint\Nop.Plugin.Misc.Zettle.dll
 C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Misc.Zettle\obj\Debug\net9.0\Nop.Plugin.Misc.Zettle.pdb
 C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Misc.Zettle\obj\Debug\net9.0\ref\Nop.Plugin.Misc.Zettle.dll
+C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Misc.Zettle\obj\Debug\net9.0\Nop.Plugin.Misc.Zettle.sourcelink.json

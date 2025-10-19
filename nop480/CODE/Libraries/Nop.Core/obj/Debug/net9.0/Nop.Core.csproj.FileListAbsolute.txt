@@ -312,3 +312,4 @@ C:\PROJECTS\nop480\CODE\Libraries\Nop.Core\obj\Debug\net9.0\Nop.Core.dll
 C:\PROJECTS\nop480\CODE\Libraries\Nop.Core\obj\Debug\net9.0\refint\Nop.Core.dll
 C:\PROJECTS\nop480\CODE\Libraries\Nop.Core\obj\Debug\net9.0\Nop.Core.pdb
 C:\PROJECTS\nop480\CODE\Libraries\Nop.Core\obj\Debug\net9.0\ref\Nop.Core.dll
+C:\PROJECTS\nop480\CODE\Libraries\Nop.Core\obj\Debug\net9.0\Nop.Core.sourcelink.json

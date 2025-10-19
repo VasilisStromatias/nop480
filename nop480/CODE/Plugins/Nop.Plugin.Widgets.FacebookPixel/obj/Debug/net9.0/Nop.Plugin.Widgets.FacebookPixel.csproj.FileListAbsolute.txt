@@ -326,3 +326,4 @@ C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Widgets.FacebookPixel\obj\Debug\net9.
 C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Widgets.FacebookPixel\obj\Debug\net9.0\refint\Nop.Plugin.Widgets.FacebookPixel.dll
 C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Widgets.FacebookPixel\obj\Debug\net9.0\Nop.Plugin.Widgets.FacebookPixel.pdb
 C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Widgets.FacebookPixel\obj\Debug\net9.0\ref\Nop.Plugin.Widgets.FacebookPixel.dll
+C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Widgets.FacebookPixel\obj\Debug\net9.0\Nop.Plugin.Widgets.FacebookPixel.sourcelink.json

@@ -325,3 +325,4 @@ C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Widgets.AccessiBe\obj\Debug\net9.0\No
 C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Widgets.AccessiBe\obj\Debug\net9.0\refint\Nop.Plugin.Widgets.AccessiBe.dll
 C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Widgets.AccessiBe\obj\Debug\net9.0\Nop.Plugin.Widgets.AccessiBe.pdb
 C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Widgets.AccessiBe\obj\Debug\net9.0\ref\Nop.Plugin.Widgets.AccessiBe.dll
+C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Widgets.AccessiBe\obj\Debug\net9.0\Nop.Plugin.Widgets.AccessiBe.sourcelink.json

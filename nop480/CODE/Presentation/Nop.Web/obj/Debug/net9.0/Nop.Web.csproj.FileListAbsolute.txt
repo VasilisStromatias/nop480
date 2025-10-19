@@ -1168,3 +1168,8 @@ C:\PROJECTS\nop480\CODE\Presentation\Nop.Web\obj\Debug\net9.0\refint\Nop.Web.dll
 C:\PROJECTS\nop480\CODE\Presentation\Nop.Web\obj\Debug\net9.0\Nop.Web.pdb
 C:\PROJECTS\nop480\CODE\Presentation\Nop.Web\obj\Debug\net9.0\Nop.Web.genruntimeconfig.cache
 C:\PROJECTS\nop480\CODE\Presentation\Nop.Web\obj\Debug\net9.0\ref\Nop.Web.dll
+C:\PROJECTS\nop480\CODE\Presentation\Nop.Web\obj\Debug\net9.0\Nop.Web.sourcelink.json
+C:\PROJECTS\nop480\CODE\Presentation\Nop.Web\obj\Debug\net9.0\compressed\aokv0ay2xj-k2z3igy7g3.gz
+C:\PROJECTS\nop480\CODE\Presentation\Nop.Web\obj\Debug\net9.0\compressed\6ntf20ifqw-nuhzvep2iw.gz
+C:\PROJECTS\nop480\CODE\Presentation\Nop.Web\obj\Debug\net9.0\compressed\qryg702ord-8s300f8t44.gz
+C:\PROJECTS\nop480\CODE\Presentation\Nop.Web\obj\Debug\net9.0\compressed\b0ntzk9xax-6gh5gxh1vt.gz

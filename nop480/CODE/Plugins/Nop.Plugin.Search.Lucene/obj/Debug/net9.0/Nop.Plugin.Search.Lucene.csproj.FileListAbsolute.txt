@@ -317,3 +317,4 @@ C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Search.Lucene\obj\Debug\net9.0\Nop.Pl
 C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Search.Lucene\obj\Debug\net9.0\refint\Nop.Plugin.Search.Lucene.dll
 C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Search.Lucene\obj\Debug\net9.0\Nop.Plugin.Search.Lucene.pdb
 C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Search.Lucene\obj\Debug\net9.0\ref\Nop.Plugin.Search.Lucene.dll
+C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Search.Lucene\obj\Debug\net9.0\Nop.Plugin.Search.Lucene.sourcelink.json

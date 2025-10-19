@@ -693,3 +693,4 @@ C:\PROJECTS\nop480\CODE\Tests\Nop.Tests\obj\Debug\net9.0\refint\Nop.Tests.dll
 C:\PROJECTS\nop480\CODE\Tests\Nop.Tests\obj\Debug\net9.0\Nop.Tests.pdb
 C:\PROJECTS\nop480\CODE\Tests\Nop.Tests\obj\Debug\net9.0\Nop.Tests.genruntimeconfig.cache
 C:\PROJECTS\nop480\CODE\Tests\Nop.Tests\obj\Debug\net9.0\ref\Nop.Tests.dll
+C:\PROJECTS\nop480\CODE\Tests\Nop.Tests\obj\Debug\net9.0\Nop.Tests.sourcelink.json

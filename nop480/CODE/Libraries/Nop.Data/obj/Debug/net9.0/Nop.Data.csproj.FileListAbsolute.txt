@@ -315,3 +315,4 @@ C:\PROJECTS\nop480\CODE\Libraries\Nop.Data\obj\Debug\net9.0\Nop.Data.dll
 C:\PROJECTS\nop480\CODE\Libraries\Nop.Data\obj\Debug\net9.0\refint\Nop.Data.dll
 C:\PROJECTS\nop480\CODE\Libraries\Nop.Data\obj\Debug\net9.0\Nop.Data.pdb
 C:\PROJECTS\nop480\CODE\Libraries\Nop.Data\obj\Debug\net9.0\ref\Nop.Data.dll
+C:\PROJECTS\nop480\CODE\Libraries\Nop.Data\obj\Debug\net9.0\Nop.Data.sourcelink.json

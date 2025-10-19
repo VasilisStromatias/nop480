@@ -333,3 +333,4 @@ C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Payments.PayPalCommerce\obj\Debug\net
 C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Payments.PayPalCommerce\obj\Debug\net9.0\refint\Nop.Plugin.Payments.PayPalCommerce.dll
 C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Payments.PayPalCommerce\obj\Debug\net9.0\Nop.Plugin.Payments.PayPalCommerce.pdb
 C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Payments.PayPalCommerce\obj\Debug\net9.0\ref\Nop.Plugin.Payments.PayPalCommerce.dll
+C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Payments.PayPalCommerce\obj\Debug\net9.0\Nop.Plugin.Payments.PayPalCommerce.sourcelink.json

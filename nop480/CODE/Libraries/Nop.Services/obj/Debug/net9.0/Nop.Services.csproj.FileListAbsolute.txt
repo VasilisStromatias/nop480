@@ -317,3 +317,4 @@ C:\PROJECTS\nop480\CODE\Libraries\Nop.Services\obj\Debug\net9.0\Nop.Services.dll
 C:\PROJECTS\nop480\CODE\Libraries\Nop.Services\obj\Debug\net9.0\refint\Nop.Services.dll
 C:\PROJECTS\nop480\CODE\Libraries\Nop.Services\obj\Debug\net9.0\Nop.Services.pdb
 C:\PROJECTS\nop480\CODE\Libraries\Nop.Services\obj\Debug\net9.0\ref\Nop.Services.dll
+C:\PROJECTS\nop480\CODE\Libraries\Nop.Services\obj\Debug\net9.0\Nop.Services.sourcelink.json

@@ -324,3 +324,4 @@ C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\net
 C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\net9.0\refint\Nop.Plugin.Widgets.GoogleAnalytics.dll
 C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\net9.0\Nop.Plugin.Widgets.GoogleAnalytics.pdb
 C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\net9.0\ref\Nop.Plugin.Widgets.GoogleAnalytics.dll
+C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\net9.0\Nop.Plugin.Widgets.GoogleAnalytics.sourcelink.json

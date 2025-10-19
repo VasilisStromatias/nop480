@@ -324,3 +324,4 @@ C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\ne
 C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\net9.0\refint\Nop.Plugin.Payments.CheckMoneyOrder.dll
 C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\net9.0\Nop.Plugin.Payments.CheckMoneyOrder.pdb
 C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\net9.0\ref\Nop.Plugin.Payments.CheckMoneyOrder.dll
+C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\net9.0\Nop.Plugin.Payments.CheckMoneyOrder.sourcelink.json

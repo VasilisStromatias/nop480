@@ -331,3 +331,4 @@ C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Widgets.Swiper\obj\Debug\net9.0\Nop.P
 C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Widgets.Swiper\obj\Debug\net9.0\refint\Nop.Plugin.Widgets.Swiper.dll
 C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Widgets.Swiper\obj\Debug\net9.0\Nop.Plugin.Widgets.Swiper.pdb
 C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Widgets.Swiper\obj\Debug\net9.0\ref\Nop.Plugin.Widgets.Swiper.dll
+C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Widgets.Swiper\obj\Debug\net9.0\Nop.Plugin.Widgets.Swiper.sourcelink.json

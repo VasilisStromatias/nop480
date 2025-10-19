@@ -323,3 +323,4 @@ C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Misc.Omnisend\obj\Debug\net9.0\Nop.Pl
 C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Misc.Omnisend\obj\Debug\net9.0\refint\Nop.Plugin.Misc.Omnisend.dll
 C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Misc.Omnisend\obj\Debug\net9.0\Nop.Plugin.Misc.Omnisend.pdb
 C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Misc.Omnisend\obj\Debug\net9.0\ref\Nop.Plugin.Misc.Omnisend.dll
+C:\PROJECTS\nop480\CODE\Plugins\Nop.Plugin.Misc.Omnisend\obj\Debug\net9.0\Nop.Plugin.Misc.Omnisend.sourcelink.json
